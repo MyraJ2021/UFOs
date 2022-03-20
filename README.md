@@ -12,6 +12,7 @@ To use the webpage, users can enter criteria they wish to filter for into the Fi
 ![filter_search](Resources/filter_search.png)
 
 Example of filter criteria added...
+
 ![filter_search_input](Resources/filter_search_input.png)
 
 ### View Results
